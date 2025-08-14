@@ -228,7 +228,7 @@ async function main() {
         document.querySelector(".right-box").style.left = "-120%";
     });
 
-    songs = await getSongs(`/Songs/${folderName}`);
+    songs = await getSongs("/Songs/MyList");
     if (songs.length > 0) {
         refreshPlaylistUI(songs);
         const firstSongName = songs[0].split(`${currFolder}/`)[1].replaceAll("%20", " ").replace(".mp3", "");
