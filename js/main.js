@@ -663,7 +663,7 @@
 let currFolder;
 let crsong = new Audio();
 let songs = []; // This will hold the current playlist
-const url = "http://127.0.0.1:5500/";
+const url = "";
 
 /**
  * Formats seconds into a MM:SS time format.
