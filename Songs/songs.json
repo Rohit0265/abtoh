@@ -4,11 +4,32 @@
     "Believer.mp3",
     "Shape of you.mp3",
     "Something Just Like This.mp3",
+    "Despacito.mp3",
     "Feels.mp3",
-    "Humble.mp3"
+    "Humble.mp3",
+    "Made Me",
+    "Sapphire",
+    "Unforgettable",
+    "Wild Thoughts"
+    
+  ],
+  "MyList": [
+    "Humsafar.mp3",
+    "Kaagaz Ka Ghar.mp3",
+    "Laapata.mp3",
+    "Never There",
+    "Now-Then",
+    "Par Ab Jo Aaegi Tu.mp3",
+    "Smile.mp3"
   ],
   "cs": [
     "Feels.mp3",
     "Humble.mp3"
-  ]
+  ],
+  "Bollywood": [
+    "Dildaara.mp3",
+    "Raanjhanaa.mp3",
+    "Tum Tak.mp3"
+  ],
+  
 }
