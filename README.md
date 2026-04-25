@@ -9,7 +9,6 @@ Although this is a frontend project, it includes **real music playback features*
 ---
 
 ## 🚀 Features
-
 - ▶️ Play & Pause music  
 - ⏭ Next & Previous track  
 - 🎚 Seek bar (progress control)  
