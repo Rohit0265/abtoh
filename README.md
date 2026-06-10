@@ -1,5 +1,5 @@
 # 🎵 Spotify Clone (Frontend Web App)
-
+d
 A fully functional **Spotify-inspired music player** built using **pure HTML, CSS, and JavaScript**.
 
 Although this is a frontend project, it includes **real music playback features**, making it more than just a static UI clone.
