@@ -4,7 +4,7 @@ A fully functional **Spotify-inspired music player** built using **pure HTML, CS
 
 Although this is a frontend project, it includes **real music playback features**, making it more than just a static UI clone.
 
-🔗 Live Demo: https://abtoh.vercel.app
+🔗 Live Demo: https://music-player-rsm.vercel.app
 
 ---
 
