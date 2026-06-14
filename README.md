@@ -8,7 +8,7 @@ Although this is a frontend project, it includes **real music playback features*
 
 ---
 
-## 🚀 Features
+## 🚀 Feature
 
 - ▶️ Play & Pause music  
 - ⏭ Next & Previous track  
